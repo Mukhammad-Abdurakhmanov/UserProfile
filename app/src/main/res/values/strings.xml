@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User_profile</string>
+    <string name="change_profile">Изменить профиль</string>
+    <string name="profile_name">Имя пользователя</string>
+    <string name="events">Участвовал в мероприятиях:</string>
+    <string name="so">Тут долна быть какая-то хрень</string>
+</resources>
